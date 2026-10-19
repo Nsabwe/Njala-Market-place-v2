@@ -1,0 +1,12 @@
+
+{
+  "id": "/",
+  "name": "NjalaMarket - Malawi Marketplace",
+  "short_name": "NjalaMarket",
+  "description": "Buy and sell products in Malawi with NjalaMarket.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e40af"
+}
